@@ -12,3 +12,5 @@ document.querySelector("button").onclick = ()=>{
         dark = false ; 
     }
 }
+
+console.log("hii my friend");
